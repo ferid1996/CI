@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CICD
-build_property.ProjectDir = C:\Users\Ferid 01\source\repos\CICD\CICD\
+build_property.ProjectDir = C:\Users\Ferid 01\Desktop\CICD\CICD\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
