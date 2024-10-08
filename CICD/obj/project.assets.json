@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ferid 01\\source\\repos\\CICD\\CICD\\CICD.csproj",
+      "projectUniqueName": "C:\\Users\\Ferid 01\\Desktop\\CICD\\CICD\\CICD.csproj",
       "projectName": "CICD",
-      "projectPath": "C:\\Users\\Ferid 01\\source\\repos\\CICD\\CICD\\CICD.csproj",
+      "projectPath": "C:\\Users\\Ferid 01\\Desktop\\CICD\\CICD\\CICD.csproj",
       "packagesPath": "C:\\Users\\Ferid 01\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ferid 01\\source\\repos\\CICD\\CICD\\obj\\",
+      "outputPath": "C:\\Users\\Ferid 01\\Desktop\\CICD\\CICD\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ferid 01\\AppData\\Roaming\\NuGet\\NuGet.Config",
