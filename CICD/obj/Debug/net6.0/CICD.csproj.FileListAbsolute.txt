@@ -1,0 +1,14 @@
+C:\Users\Ferid 01\source\repos\CICD\CICD\bin\Debug\net6.0\CICD.exe
+C:\Users\Ferid 01\source\repos\CICD\CICD\bin\Debug\net6.0\CICD.deps.json
+C:\Users\Ferid 01\source\repos\CICD\CICD\bin\Debug\net6.0\CICD.runtimeconfig.json
+C:\Users\Ferid 01\source\repos\CICD\CICD\bin\Debug\net6.0\CICD.dll
+C:\Users\Ferid 01\source\repos\CICD\CICD\bin\Debug\net6.0\CICD.pdb
+C:\Users\Ferid 01\source\repos\CICD\CICD\obj\Debug\net6.0\CICD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferid 01\source\repos\CICD\CICD\obj\Debug\net6.0\CICD.AssemblyInfoInputs.cache
+C:\Users\Ferid 01\source\repos\CICD\CICD\obj\Debug\net6.0\CICD.AssemblyInfo.cs
+C:\Users\Ferid 01\source\repos\CICD\CICD\obj\Debug\net6.0\CICD.csproj.CoreCompileInputs.cache
+C:\Users\Ferid 01\source\repos\CICD\CICD\obj\Debug\net6.0\CICD.dll
+C:\Users\Ferid 01\source\repos\CICD\CICD\obj\Debug\net6.0\refint\CICD.dll
+C:\Users\Ferid 01\source\repos\CICD\CICD\obj\Debug\net6.0\CICD.pdb
+C:\Users\Ferid 01\source\repos\CICD\CICD\obj\Debug\net6.0\CICD.genruntimeconfig.cache
+C:\Users\Ferid 01\source\repos\CICD\CICD\obj\Debug\net6.0\ref\CICD.dll
